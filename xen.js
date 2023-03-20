@@ -27,8 +27,27 @@ document.write(fruits[3]); // prints: orange
 document.write(cars[0]); //prints: BMW
 document.write(cars[4]); //prints:Isuzu
 
-</script>  
 
+</script>
+<script>
+ //javascript operators 
+ 
+ var x = 5;
+ var y = 10;
+
+document.write( x+y )
+document.write(y-x)
+document.write(y*x)
+</script>
+
+<script>
+ var fruits = [oranges, Mangoes, Apples, papaya];
+
+for(fruits[i]; i< fruits.length; i++);
+
+document.write(fruits[i] "<br>");
+ 
+ </script>
 </body>  
 
 </html>
